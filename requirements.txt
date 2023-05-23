@@ -1,0 +1,15 @@
+playsound==1.2.2
+rec_voice
+json
+re
+num2words
+voice
+w2n
+torch
+os
+subprocess
+datetime
+scipy
+namegenerator
+sounddevice
+tts
